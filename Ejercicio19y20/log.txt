@@ -1,0 +1,3 @@
+WARNING: El sistema esta siendo ralentizado por un proceso desconocido.
+ERROR: No se reconoce el disco.
+WARNING: Cierra la puerta despues de salir
